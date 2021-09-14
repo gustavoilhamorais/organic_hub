@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import React from "react";
 
 const CustomIMG = styled.img`
   width: 40px;
